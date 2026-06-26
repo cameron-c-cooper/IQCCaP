@@ -1,0 +1,3 @@
+[submodule "LEAP71_ShapeKernel"]
+	path = LEAP71_ShapeKernel
+	url = https://github.com/leap71/LEAP71_ShapeKernel
